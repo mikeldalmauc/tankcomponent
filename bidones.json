@@ -1,0 +1,4004 @@
+{
+  "flow":[
+  {
+    "water": -2,
+    "oil": -10
+  },
+  {
+    "water": 13,
+    "oil": 7
+  },
+  {
+    "water": 13,
+    "oil": -3
+  },
+  {
+    "water": -4,
+    "oil": -2
+  },
+  {
+    "water": 17,
+    "oil": -6
+  },
+  {
+    "water": 9,
+    "oil": 0
+  },
+  {
+    "water": 3,
+    "oil": -4
+  },
+  {
+    "water": -10,
+    "oil": 10
+  },
+  {
+    "water": 6,
+    "oil": 1
+  },
+  {
+    "water": -9,
+    "oil": -2
+  },
+  {
+    "water": 1,
+    "oil": -9
+  },
+  {
+    "water": -2,
+    "oil": 6
+  },
+  {
+    "water": -1,
+    "oil": -6
+  },
+  {
+    "water": -6,
+    "oil": 1
+  },
+  {
+    "water": 6,
+    "oil": -5
+  },
+  {
+    "water": 3,
+    "oil": -7
+  },
+  {
+    "water": -5,
+    "oil": 5
+  },
+  {
+    "water": 12,
+    "oil": -2
+  },
+  {
+    "water": 15,
+    "oil": -10
+  },
+  {
+    "water": 10,
+    "oil": -5
+  },
+  {
+    "water": 5,
+    "oil": -2
+  },
+  {
+    "water": -4,
+    "oil": -6
+  },
+  {
+    "water": 5,
+    "oil": 7
+  },
+  {
+    "water": -11,
+    "oil": 3
+  },
+  {
+    "water": 2,
+    "oil": 10
+  },
+  {
+    "water": -2,
+    "oil": 5
+  },
+  {
+    "water": -10,
+    "oil": -9
+  },
+  {
+    "water": -4,
+    "oil": -7
+  },
+  {
+    "water": 6,
+    "oil": -4
+  },
+  {
+    "water": 2,
+    "oil": 0
+  },
+  {
+    "water": 7,
+    "oil": -3
+  },
+  {
+    "water": 7,
+    "oil": 2
+  },
+  {
+    "water": 15,
+    "oil": 5
+  },
+  {
+    "water": -13,
+    "oil": -3
+  },
+  {
+    "water": -11,
+    "oil": -8
+  },
+  {
+    "water": -7,
+    "oil": -7
+  },
+  {
+    "water": -4,
+    "oil": -7
+  },
+  {
+    "water": 15,
+    "oil": 8
+  },
+  {
+    "water": -13,
+    "oil": -6
+  },
+  {
+    "water": -1,
+    "oil": 4
+  },
+  {
+    "water": -2,
+    "oil": 5
+  },
+  {
+    "water": -10,
+    "oil": -5
+  },
+  {
+    "water": -10,
+    "oil": 0
+  },
+  {
+    "water": 6,
+    "oil": -8
+  },
+  {
+    "water": 15,
+    "oil": -4
+  },
+  {
+    "water": 3,
+    "oil": 8
+  },
+  {
+    "water": -2,
+    "oil": -6
+  },
+  {
+    "water": -9,
+    "oil": 0
+  },
+  {
+    "water": -7,
+    "oil": -3
+  },
+  {
+    "water": 3,
+    "oil": -1
+  },
+  {
+    "water": 12,
+    "oil": -10
+  },
+  {
+    "water": 5,
+    "oil": -4
+  },
+  {
+    "water": 5,
+    "oil": 4
+  },
+  {
+    "water": -18,
+    "oil": 7
+  },
+  {
+    "water": 6,
+    "oil": 8
+  },
+  {
+    "water": -4,
+    "oil": -10
+  },
+  {
+    "water": -2,
+    "oil": 0
+  },
+  {
+    "water": 9,
+    "oil": 4
+  },
+  {
+    "water": -2,
+    "oil": -9
+  },
+  {
+    "water": -5,
+    "oil": 10
+  },
+  {
+    "water": 15,
+    "oil": -3
+  },
+  {
+    "water": -4,
+    "oil": 5
+  },
+  {
+    "water": 15,
+    "oil": 7
+  },
+  {
+    "water": 0,
+    "oil": -4
+  },
+  {
+    "water": 10,
+    "oil": -1
+  },
+  {
+    "water": -10,
+    "oil": 0
+  },
+  {
+    "water": 20,
+    "oil": 4
+  },
+  {
+    "water": 13,
+    "oil": 0
+  },
+  {
+    "water": -12,
+    "oil": 2
+  },
+  {
+    "water": -1,
+    "oil": 8
+  },
+  {
+    "water": -4,
+    "oil": -6
+  },
+  {
+    "water": 13,
+    "oil": 10
+  },
+  {
+    "water": -9,
+    "oil": -7
+  },
+  {
+    "water": -6,
+    "oil": -4
+  },
+  {
+    "water": 12,
+    "oil": -4
+  },
+  {
+    "water": 6,
+    "oil": 9
+  },
+  {
+    "water": -7,
+    "oil": -8
+  },
+  {
+    "water": -18,
+    "oil": 2
+  },
+  {
+    "water": -17,
+    "oil": 7
+  },
+  {
+    "water": -17,
+    "oil": 10
+  },
+  {
+    "water": -5,
+    "oil": 10
+  },
+  {
+    "water": 5,
+    "oil": 5
+  },
+  {
+    "water": -3,
+    "oil": -4
+  },
+  {
+    "water": -8,
+    "oil": 9
+  },
+  {
+    "water": -2,
+    "oil": 3
+  },
+  {
+    "water": -3,
+    "oil": 4
+  },
+  {
+    "water": -10,
+    "oil": -5
+  },
+  {
+    "water": -3,
+    "oil": -7
+  },
+  {
+    "water": -8,
+    "oil": -1
+  },
+  {
+    "water": -2,
+    "oil": 4
+  },
+  {
+    "water": 20,
+    "oil": -4
+  },
+  {
+    "water": -19,
+    "oil": -3
+  },
+  {
+    "water": 15,
+    "oil": 6
+  },
+  {
+    "water": -13,
+    "oil": -8
+  },
+  {
+    "water": -6,
+    "oil": 8
+  },
+  {
+    "water": 14,
+    "oil": -8
+  },
+  {
+    "water": -4,
+    "oil": -6
+  },
+  {
+    "water": 8,
+    "oil": -5
+  },
+  {
+    "water": 14,
+    "oil": -7
+  },
+  {
+    "water": 7,
+    "oil": -3
+  },
+  {
+    "water": 3,
+    "oil": 5
+  },
+  {
+    "water": 8,
+    "oil": 2
+  },
+  {
+    "water": -14,
+    "oil": -5
+  },
+  {
+    "water": 0,
+    "oil": 3
+  },
+  {
+    "water": 9,
+    "oil": 1
+  },
+  {
+    "water": -12,
+    "oil": -8
+  },
+  {
+    "water": 17,
+    "oil": 1
+  },
+  {
+    "water": -12,
+    "oil": 4
+  },
+  {
+    "water": 17,
+    "oil": -10
+  },
+  {
+    "water": 16,
+    "oil": -1
+  },
+  {
+    "water": 7,
+    "oil": -4
+  },
+  {
+    "water": 4,
+    "oil": 8
+  },
+  {
+    "water": -10,
+    "oil": -2
+  },
+  {
+    "water": 15,
+    "oil": -3
+  },
+  {
+    "water": -7,
+    "oil": 1
+  },
+  {
+    "water": 3,
+    "oil": 1
+  },
+  {
+    "water": 8,
+    "oil": 9
+  },
+  {
+    "water": 1,
+    "oil": 3
+  },
+  {
+    "water": -10,
+    "oil": 2
+  },
+  {
+    "water": -20,
+    "oil": -6
+  },
+  {
+    "water": -14,
+    "oil": -6
+  },
+  {
+    "water": 19,
+    "oil": 10
+  },
+  {
+    "water": 10,
+    "oil": -1
+  },
+  {
+    "water": -14,
+    "oil": 5
+  },
+  {
+    "water": 8,
+    "oil": 7
+  },
+  {
+    "water": 1,
+    "oil": 4
+  },
+  {
+    "water": 7,
+    "oil": 2
+  },
+  {
+    "water": 13,
+    "oil": 8
+  },
+  {
+    "water": -9,
+    "oil": -3
+  },
+  {
+    "water": 4,
+    "oil": -2
+  },
+  {
+    "water": 13,
+    "oil": 2
+  },
+  {
+    "water": -17,
+    "oil": 4
+  },
+  {
+    "water": 20,
+    "oil": 10
+  },
+  {
+    "water": -17,
+    "oil": -6
+  },
+  {
+    "water": -19,
+    "oil": 2
+  },
+  {
+    "water": 17,
+    "oil": 0
+  },
+  {
+    "water": 20,
+    "oil": -2
+  },
+  {
+    "water": 1,
+    "oil": 4
+  },
+  {
+    "water": -12,
+    "oil": 10
+  },
+  {
+    "water": -12,
+    "oil": 2
+  },
+  {
+    "water": 18,
+    "oil": -6
+  },
+  {
+    "water": -15,
+    "oil": 8
+  },
+  {
+    "water": -6,
+    "oil": 4
+  },
+  {
+    "water": 9,
+    "oil": -4
+  },
+  {
+    "water": 8,
+    "oil": -10
+  },
+  {
+    "water": 18,
+    "oil": -2
+  },
+  {
+    "water": 17,
+    "oil": -1
+  },
+  {
+    "water": -14,
+    "oil": -10
+  },
+  {
+    "water": 6,
+    "oil": 10
+  },
+  {
+    "water": -14,
+    "oil": -4
+  },
+  {
+    "water": 13,
+    "oil": 5
+  },
+  {
+    "water": 13,
+    "oil": -2
+  },
+  {
+    "water": -16,
+    "oil": 10
+  },
+  {
+    "water": 11,
+    "oil": 2
+  },
+  {
+    "water": -7,
+    "oil": -5
+  },
+  {
+    "water": 3,
+    "oil": -10
+  },
+  {
+    "water": 0,
+    "oil": 9
+  },
+  {
+    "water": -6,
+    "oil": 3
+  },
+  {
+    "water": 18,
+    "oil": 2
+  },
+  {
+    "water": -19,
+    "oil": 5
+  },
+  {
+    "water": -20,
+    "oil": -6
+  },
+  {
+    "water": -10,
+    "oil": -10
+  },
+  {
+    "water": -5,
+    "oil": -8
+  },
+  {
+    "water": -14,
+    "oil": -8
+  },
+  {
+    "water": 16,
+    "oil": 4
+  },
+  {
+    "water": 15,
+    "oil": 4
+  },
+  {
+    "water": -9,
+    "oil": 2
+  },
+  {
+    "water": -8,
+    "oil": -10
+  },
+  {
+    "water": -20,
+    "oil": -8
+  },
+  {
+    "water": 18,
+    "oil": 8
+  },
+  {
+    "water": -4,
+    "oil": -2
+  },
+  {
+    "water": -20,
+    "oil": 7
+  },
+  {
+    "water": -11,
+    "oil": 3
+  },
+  {
+    "water": -4,
+    "oil": -7
+  },
+  {
+    "water": -1,
+    "oil": -5
+  },
+  {
+    "water": 18,
+    "oil": -2
+  },
+  {
+    "water": -2,
+    "oil": 8
+  },
+  {
+    "water": 20,
+    "oil": -3
+  },
+  {
+    "water": -4,
+    "oil": -5
+  },
+  {
+    "water": 4,
+    "oil": 6
+  },
+  {
+    "water": 14,
+    "oil": 1
+  },
+  {
+    "water": -15,
+    "oil": -2
+  },
+  {
+    "water": -3,
+    "oil": 7
+  },
+  {
+    "water": -20,
+    "oil": 7
+  },
+  {
+    "water": 18,
+    "oil": 7
+  },
+  {
+    "water": -20,
+    "oil": -2
+  },
+  {
+    "water": -4,
+    "oil": 5
+  },
+  {
+    "water": -3,
+    "oil": -1
+  },
+  {
+    "water": -2,
+    "oil": -9
+  },
+  {
+    "water": -9,
+    "oil": -4
+  },
+  {
+    "water": 17,
+    "oil": -10
+  },
+  {
+    "water": -3,
+    "oil": 10
+  },
+  {
+    "water": 16,
+    "oil": 1
+  },
+  {
+    "water": -19,
+    "oil": 7
+  },
+  {
+    "water": 14,
+    "oil": -1
+  },
+  {
+    "water": 4,
+    "oil": -5
+  },
+  {
+    "water": 17,
+    "oil": 7
+  },
+  {
+    "water": 12,
+    "oil": -1
+  },
+  {
+    "water": 20,
+    "oil": 8
+  },
+  {
+    "water": 1,
+    "oil": -4
+  },
+  {
+    "water": -17,
+    "oil": 8
+  },
+  {
+    "water": 7,
+    "oil": -3
+  },
+  {
+    "water": 9,
+    "oil": -2
+  },
+  {
+    "water": -12,
+    "oil": 7
+  },
+  {
+    "water": 3,
+    "oil": 8
+  },
+  {
+    "water": -7,
+    "oil": -8
+  },
+  {
+    "water": 0,
+    "oil": -4
+  },
+  {
+    "water": 18,
+    "oil": -6
+  },
+  {
+    "water": -12,
+    "oil": 2
+  },
+  {
+    "water": 4,
+    "oil": 2
+  },
+  {
+    "water": 0,
+    "oil": 8
+  },
+  {
+    "water": -3,
+    "oil": -3
+  },
+  {
+    "water": -16,
+    "oil": -10
+  },
+  {
+    "water": 12,
+    "oil": -10
+  },
+  {
+    "water": -17,
+    "oil": 1
+  },
+  {
+    "water": -11,
+    "oil": -6
+  },
+  {
+    "water": -1,
+    "oil": 9
+  },
+  {
+    "water": 4,
+    "oil": -8
+  },
+  {
+    "water": -14,
+    "oil": -3
+  },
+  {
+    "water": 1,
+    "oil": -1
+  },
+  {
+    "water": -1,
+    "oil": 3
+  },
+  {
+    "water": 13,
+    "oil": 10
+  },
+  {
+    "water": 10,
+    "oil": -9
+  },
+  {
+    "water": -17,
+    "oil": -1
+  },
+  {
+    "water": -1,
+    "oil": 9
+  },
+  {
+    "water": 6,
+    "oil": 3
+  },
+  {
+    "water": 0,
+    "oil": -9
+  },
+  {
+    "water": -5,
+    "oil": 5
+  },
+  {
+    "water": -9,
+    "oil": -8
+  },
+  {
+    "water": -6,
+    "oil": 4
+  },
+  {
+    "water": 2,
+    "oil": -3
+  },
+  {
+    "water": 3,
+    "oil": -2
+  },
+  {
+    "water": -14,
+    "oil": 4
+  },
+  {
+    "water": 1,
+    "oil": -10
+  },
+  {
+    "water": 16,
+    "oil": 3
+  },
+  {
+    "water": 0,
+    "oil": -8
+  },
+  {
+    "water": 9,
+    "oil": 4
+  },
+  {
+    "water": -12,
+    "oil": -3
+  },
+  {
+    "water": -2,
+    "oil": 9
+  },
+  {
+    "water": 17,
+    "oil": 8
+  },
+  {
+    "water": 11,
+    "oil": 0
+  },
+  {
+    "water": -13,
+    "oil": -5
+  },
+  {
+    "water": -16,
+    "oil": -8
+  },
+  {
+    "water": -15,
+    "oil": 6
+  },
+  {
+    "water": 7,
+    "oil": -8
+  },
+  {
+    "water": 14,
+    "oil": -9
+  },
+  {
+    "water": -9,
+    "oil": -1
+  },
+  {
+    "water": -15,
+    "oil": 3
+  },
+  {
+    "water": -19,
+    "oil": 4
+  },
+  {
+    "water": -6,
+    "oil": -5
+  },
+  {
+    "water": -16,
+    "oil": 4
+  },
+  {
+    "water": 14,
+    "oil": 8
+  },
+  {
+    "water": 19,
+    "oil": 0
+  },
+  {
+    "water": -10,
+    "oil": -5
+  },
+  {
+    "water": 3,
+    "oil": -4
+  },
+  {
+    "water": -3,
+    "oil": 3
+  },
+  {
+    "water": 1,
+    "oil": 4
+  },
+  {
+    "water": 8,
+    "oil": -9
+  },
+  {
+    "water": 10,
+    "oil": 2
+  },
+  {
+    "water": -15,
+    "oil": 2
+  },
+  {
+    "water": -14,
+    "oil": -2
+  },
+  {
+    "water": 5,
+    "oil": 0
+  },
+  {
+    "water": -1,
+    "oil": 5
+  },
+  {
+    "water": -12,
+    "oil": -3
+  },
+  {
+    "water": -20,
+    "oil": 6
+  },
+  {
+    "water": 9,
+    "oil": -10
+  },
+  {
+    "water": 18,
+    "oil": -7
+  },
+  {
+    "water": -19,
+    "oil": -2
+  },
+  {
+    "water": 18,
+    "oil": 0
+  },
+  {
+    "water": -9,
+    "oil": 0
+  },
+  {
+    "water": 16,
+    "oil": 6
+  },
+  {
+    "water": 17,
+    "oil": 1
+  },
+  {
+    "water": 0,
+    "oil": -1
+  },
+  {
+    "water": 20,
+    "oil": 3
+  },
+  {
+    "water": 4,
+    "oil": 7
+  },
+  {
+    "water": 2,
+    "oil": -4
+  },
+  {
+    "water": 10,
+    "oil": 3
+  },
+  {
+    "water": 0,
+    "oil": 8
+  },
+  {
+    "water": -7,
+    "oil": 2
+  },
+  {
+    "water": 0,
+    "oil": -3
+  },
+  {
+    "water": 10,
+    "oil": 6
+  },
+  {
+    "water": 3,
+    "oil": 9
+  },
+  {
+    "water": -14,
+    "oil": 3
+  },
+  {
+    "water": -1,
+    "oil": 2
+  },
+  {
+    "water": -17,
+    "oil": -8
+  },
+  {
+    "water": -11,
+    "oil": 8
+  },
+  {
+    "water": 11,
+    "oil": -4
+  },
+  {
+    "water": 19,
+    "oil": -6
+  },
+  {
+    "water": 1,
+    "oil": 9
+  },
+  {
+    "water": 20,
+    "oil": -9
+  },
+  {
+    "water": -1,
+    "oil": 0
+  },
+  {
+    "water": 8,
+    "oil": -6
+  },
+  {
+    "water": -16,
+    "oil": -6
+  },
+  {
+    "water": 6,
+    "oil": 7
+  },
+  {
+    "water": -16,
+    "oil": -10
+  },
+  {
+    "water": -12,
+    "oil": 1
+  },
+  {
+    "water": -7,
+    "oil": 6
+  },
+  {
+    "water": 9,
+    "oil": 5
+  },
+  {
+    "water": 3,
+    "oil": -2
+  },
+  {
+    "water": -20,
+    "oil": 6
+  },
+  {
+    "water": 16,
+    "oil": 4
+  },
+  {
+    "water": 1,
+    "oil": -1
+  },
+  {
+    "water": 15,
+    "oil": 4
+  },
+  {
+    "water": 0,
+    "oil": -8
+  },
+  {
+    "water": 5,
+    "oil": 5
+  },
+  {
+    "water": 20,
+    "oil": 1
+  },
+  {
+    "water": -4,
+    "oil": 6
+  },
+  {
+    "water": 5,
+    "oil": 1
+  },
+  {
+    "water": -4,
+    "oil": 7
+  },
+  {
+    "water": -6,
+    "oil": 3
+  },
+  {
+    "water": -5,
+    "oil": -1
+  },
+  {
+    "water": -19,
+    "oil": 5
+  },
+  {
+    "water": -14,
+    "oil": 7
+  },
+  {
+    "water": 17,
+    "oil": 3
+  },
+  {
+    "water": 14,
+    "oil": 5
+  },
+  {
+    "water": -20,
+    "oil": 4
+  },
+  {
+    "water": 4,
+    "oil": 6
+  },
+  {
+    "water": 16,
+    "oil": 0
+  },
+  {
+    "water": -3,
+    "oil": -2
+  },
+  {
+    "water": -14,
+    "oil": -10
+  },
+  {
+    "water": -17,
+    "oil": -6
+  },
+  {
+    "water": -5,
+    "oil": 9
+  },
+  {
+    "water": 1,
+    "oil": 10
+  },
+  {
+    "water": 5,
+    "oil": -3
+  },
+  {
+    "water": 8,
+    "oil": -6
+  },
+  {
+    "water": -3,
+    "oil": 2
+  },
+  {
+    "water": -3,
+    "oil": 3
+  },
+  {
+    "water": 13,
+    "oil": 10
+  },
+  {
+    "water": -4,
+    "oil": 10
+  },
+  {
+    "water": -8,
+    "oil": -1
+  },
+  {
+    "water": 17,
+    "oil": -4
+  },
+  {
+    "water": -3,
+    "oil": -2
+  },
+  {
+    "water": 14,
+    "oil": -5
+  },
+  {
+    "water": -6,
+    "oil": -5
+  },
+  {
+    "water": 16,
+    "oil": 2
+  },
+  {
+    "water": 13,
+    "oil": -3
+  },
+  {
+    "water": 17,
+    "oil": -2
+  },
+  {
+    "water": -5,
+    "oil": 9
+  },
+  {
+    "water": -20,
+    "oil": 3
+  },
+  {
+    "water": -16,
+    "oil": -3
+  },
+  {
+    "water": -16,
+    "oil": 6
+  },
+  {
+    "water": 0,
+    "oil": 4
+  },
+  {
+    "water": 9,
+    "oil": 2
+  },
+  {
+    "water": -2,
+    "oil": 5
+  },
+  {
+    "water": -16,
+    "oil": -10
+  },
+  {
+    "water": 14,
+    "oil": 0
+  },
+  {
+    "water": 5,
+    "oil": -9
+  },
+  {
+    "water": -12,
+    "oil": -7
+  },
+  {
+    "water": -16,
+    "oil": -10
+  },
+  {
+    "water": -3,
+    "oil": -2
+  },
+  {
+    "water": -10,
+    "oil": -9
+  },
+  {
+    "water": -17,
+    "oil": -6
+  },
+  {
+    "water": -14,
+    "oil": 4
+  },
+  {
+    "water": -3,
+    "oil": 10
+  },
+  {
+    "water": 0,
+    "oil": -2
+  },
+  {
+    "water": -9,
+    "oil": 5
+  },
+  {
+    "water": -20,
+    "oil": 4
+  },
+  {
+    "water": -7,
+    "oil": -3
+  },
+  {
+    "water": -18,
+    "oil": -7
+  },
+  {
+    "water": -11,
+    "oil": -6
+  },
+  {
+    "water": -3,
+    "oil": 0
+  },
+  {
+    "water": 4,
+    "oil": -3
+  },
+  {
+    "water": -19,
+    "oil": -8
+  },
+  {
+    "water": 19,
+    "oil": 8
+  },
+  {
+    "water": 14,
+    "oil": 2
+  },
+  {
+    "water": 2,
+    "oil": -7
+  },
+  {
+    "water": 9,
+    "oil": 7
+  },
+  {
+    "water": 20,
+    "oil": 0
+  },
+  {
+    "water": -14,
+    "oil": -5
+  },
+  {
+    "water": -5,
+    "oil": 3
+  },
+  {
+    "water": -7,
+    "oil": -8
+  },
+  {
+    "water": 2,
+    "oil": -4
+  },
+  {
+    "water": -19,
+    "oil": -6
+  },
+  {
+    "water": 17,
+    "oil": -10
+  },
+  {
+    "water": -5,
+    "oil": -9
+  },
+  {
+    "water": 17,
+    "oil": -7
+  },
+  {
+    "water": -13,
+    "oil": 2
+  },
+  {
+    "water": 12,
+    "oil": 9
+  },
+  {
+    "water": -8,
+    "oil": 7
+  },
+  {
+    "water": 1,
+    "oil": -5
+  },
+  {
+    "water": -14,
+    "oil": -1
+  },
+  {
+    "water": -11,
+    "oil": 4
+  },
+  {
+    "water": 19,
+    "oil": 10
+  },
+  {
+    "water": -7,
+    "oil": 0
+  },
+  {
+    "water": -17,
+    "oil": -1
+  },
+  {
+    "water": -11,
+    "oil": 2
+  },
+  {
+    "water": -10,
+    "oil": 2
+  },
+  {
+    "water": -12,
+    "oil": 9
+  },
+  {
+    "water": -13,
+    "oil": 1
+  },
+  {
+    "water": 18,
+    "oil": 1
+  },
+  {
+    "water": 17,
+    "oil": 5
+  },
+  {
+    "water": -6,
+    "oil": -10
+  },
+  {
+    "water": 3,
+    "oil": -9
+  },
+  {
+    "water": 10,
+    "oil": 8
+  },
+  {
+    "water": -3,
+    "oil": -4
+  },
+  {
+    "water": -10,
+    "oil": -2
+  },
+  {
+    "water": 2,
+    "oil": 5
+  },
+  {
+    "water": 5,
+    "oil": 2
+  },
+  {
+    "water": 5,
+    "oil": 8
+  },
+  {
+    "water": -15,
+    "oil": -9
+  },
+  {
+    "water": 13,
+    "oil": -2
+  },
+  {
+    "water": -9,
+    "oil": 3
+  },
+  {
+    "water": 8,
+    "oil": 0
+  },
+  {
+    "water": 19,
+    "oil": -8
+  },
+  {
+    "water": 7,
+    "oil": -6
+  },
+  {
+    "water": -1,
+    "oil": 5
+  },
+  {
+    "water": -12,
+    "oil": -9
+  },
+  {
+    "water": -7,
+    "oil": -10
+  },
+  {
+    "water": -15,
+    "oil": 3
+  },
+  {
+    "water": 1,
+    "oil": -5
+  },
+  {
+    "water": 8,
+    "oil": -2
+  },
+  {
+    "water": 11,
+    "oil": -4
+  },
+  {
+    "water": 13,
+    "oil": 1
+  },
+  {
+    "water": 10,
+    "oil": 2
+  },
+  {
+    "water": -1,
+    "oil": -9
+  },
+  {
+    "water": -9,
+    "oil": -9
+  },
+  {
+    "water": -6,
+    "oil": 10
+  },
+  {
+    "water": 17,
+    "oil": 2
+  },
+  {
+    "water": -15,
+    "oil": 6
+  },
+  {
+    "water": -16,
+    "oil": 6
+  },
+  {
+    "water": 5,
+    "oil": 9
+  },
+  {
+    "water": -19,
+    "oil": 0
+  },
+  {
+    "water": -12,
+    "oil": 1
+  },
+  {
+    "water": 11,
+    "oil": -10
+  },
+  {
+    "water": 6,
+    "oil": -7
+  },
+  {
+    "water": 8,
+    "oil": 2
+  },
+  {
+    "water": 12,
+    "oil": -7
+  },
+  {
+    "water": 6,
+    "oil": -1
+  },
+  {
+    "water": -16,
+    "oil": 1
+  },
+  {
+    "water": 18,
+    "oil": -8
+  },
+  {
+    "water": -18,
+    "oil": 4
+  },
+  {
+    "water": 13,
+    "oil": -10
+  },
+  {
+    "water": 20,
+    "oil": 8
+  },
+  {
+    "water": 2,
+    "oil": -9
+  },
+  {
+    "water": -10,
+    "oil": -8
+  },
+  {
+    "water": 5,
+    "oil": -3
+  },
+  {
+    "water": -7,
+    "oil": 7
+  },
+  {
+    "water": -13,
+    "oil": 10
+  },
+  {
+    "water": -8,
+    "oil": 7
+  },
+  {
+    "water": 1,
+    "oil": 9
+  },
+  {
+    "water": -1,
+    "oil": -7
+  },
+  {
+    "water": -17,
+    "oil": 7
+  },
+  {
+    "water": -15,
+    "oil": 9
+  },
+  {
+    "water": 11,
+    "oil": -6
+  },
+  {
+    "water": -12,
+    "oil": -6
+  },
+  {
+    "water": 5,
+    "oil": -4
+  },
+  {
+    "water": -2,
+    "oil": 6
+  },
+  {
+    "water": 2,
+    "oil": 10
+  },
+  {
+    "water": -4,
+    "oil": -6
+  },
+  {
+    "water": -1,
+    "oil": 8
+  },
+  {
+    "water": -15,
+    "oil": -8
+  },
+  {
+    "water": 19,
+    "oil": 5
+  },
+  {
+    "water": -3,
+    "oil": -10
+  },
+  {
+    "water": -3,
+    "oil": -6
+  },
+  {
+    "water": -14,
+    "oil": 1
+  },
+  {
+    "water": -17,
+    "oil": 7
+  },
+  {
+    "water": -3,
+    "oil": -10
+  },
+  {
+    "water": 14,
+    "oil": -6
+  },
+  {
+    "water": 16,
+    "oil": 2
+  },
+  {
+    "water": -5,
+    "oil": 9
+  },
+  {
+    "water": 14,
+    "oil": -4
+  },
+  {
+    "water": 8,
+    "oil": -9
+  },
+  {
+    "water": 3,
+    "oil": -4
+  },
+  {
+    "water": 3,
+    "oil": 9
+  },
+  {
+    "water": 10,
+    "oil": 2
+  },
+  {
+    "water": 11,
+    "oil": -5
+  },
+  {
+    "water": 7,
+    "oil": 4
+  },
+  {
+    "water": -15,
+    "oil": 1
+  },
+  {
+    "water": -1,
+    "oil": -7
+  },
+  {
+    "water": -15,
+    "oil": -10
+  },
+  {
+    "water": -4,
+    "oil": 4
+  },
+  {
+    "water": 10,
+    "oil": 9
+  },
+  {
+    "water": -17,
+    "oil": 9
+  },
+  {
+    "water": 13,
+    "oil": 7
+  },
+  {
+    "water": 18,
+    "oil": 3
+  },
+  {
+    "water": -12,
+    "oil": 7
+  },
+  {
+    "water": -10,
+    "oil": -1
+  },
+  {
+    "water": 3,
+    "oil": 1
+  },
+  {
+    "water": 8,
+    "oil": 6
+  },
+  {
+    "water": -9,
+    "oil": 8
+  },
+  {
+    "water": -6,
+    "oil": 9
+  },
+  {
+    "water": -5,
+    "oil": 3
+  },
+  {
+    "water": -12,
+    "oil": -9
+  },
+  {
+    "water": 18,
+    "oil": 1
+  },
+  {
+    "water": 20,
+    "oil": 4
+  },
+  {
+    "water": 19,
+    "oil": 1
+  },
+  {
+    "water": 19,
+    "oil": 4
+  },
+  {
+    "water": 17,
+    "oil": 6
+  },
+  {
+    "water": -15,
+    "oil": -7
+  },
+  {
+    "water": 5,
+    "oil": 6
+  },
+  {
+    "water": -4,
+    "oil": -10
+  },
+  {
+    "water": 15,
+    "oil": -4
+  },
+  {
+    "water": 5,
+    "oil": -7
+  },
+  {
+    "water": -9,
+    "oil": 1
+  },
+  {
+    "water": 16,
+    "oil": 7
+  },
+  {
+    "water": 19,
+    "oil": 7
+  },
+  {
+    "water": 18,
+    "oil": -8
+  },
+  {
+    "water": -7,
+    "oil": 3
+  },
+  {
+    "water": -13,
+    "oil": 6
+  },
+  {
+    "water": -14,
+    "oil": 6
+  },
+  {
+    "water": 2,
+    "oil": 2
+  },
+  {
+    "water": -16,
+    "oil": -10
+  },
+  {
+    "water": 3,
+    "oil": -9
+  },
+  {
+    "water": -18,
+    "oil": 9
+  },
+  {
+    "water": 18,
+    "oil": 8
+  },
+  {
+    "water": -17,
+    "oil": 10
+  },
+  {
+    "water": 10,
+    "oil": -6
+  },
+  {
+    "water": 16,
+    "oil": 1
+  },
+  {
+    "water": 13,
+    "oil": 2
+  },
+  {
+    "water": 14,
+    "oil": 1
+  },
+  {
+    "water": 6,
+    "oil": 5
+  },
+  {
+    "water": 18,
+    "oil": 9
+  },
+  {
+    "water": -14,
+    "oil": 0
+  },
+  {
+    "water": 8,
+    "oil": 9
+  },
+  {
+    "water": 7,
+    "oil": -4
+  },
+  {
+    "water": -20,
+    "oil": -9
+  },
+  {
+    "water": 12,
+    "oil": -4
+  },
+  {
+    "water": 10,
+    "oil": 6
+  },
+  {
+    "water": 16,
+    "oil": 0
+  },
+  {
+    "water": 11,
+    "oil": 5
+  },
+  {
+    "water": 18,
+    "oil": 5
+  },
+  {
+    "water": -14,
+    "oil": 9
+  },
+  {
+    "water": 10,
+    "oil": -9
+  },
+  {
+    "water": -20,
+    "oil": -4
+  },
+  {
+    "water": -1,
+    "oil": -7
+  },
+  {
+    "water": 3,
+    "oil": 6
+  },
+  {
+    "water": 15,
+    "oil": 10
+  },
+  {
+    "water": 11,
+    "oil": -6
+  },
+  {
+    "water": -16,
+    "oil": -7
+  },
+  {
+    "water": -2,
+    "oil": 10
+  },
+  {
+    "water": -10,
+    "oil": -7
+  },
+  {
+    "water": 4,
+    "oil": 4
+  },
+  {
+    "water": 10,
+    "oil": 10
+  },
+  {
+    "water": 14,
+    "oil": 3
+  },
+  {
+    "water": -12,
+    "oil": 6
+  },
+  {
+    "water": -13,
+    "oil": -10
+  },
+  {
+    "water": -2,
+    "oil": 6
+  },
+  {
+    "water": 14,
+    "oil": -6
+  },
+  {
+    "water": -15,
+    "oil": 6
+  },
+  {
+    "water": -14,
+    "oil": 0
+  },
+  {
+    "water": 16,
+    "oil": -8
+  },
+  {
+    "water": -9,
+    "oil": 6
+  },
+  {
+    "water": 19,
+    "oil": 0
+  },
+  {
+    "water": 13,
+    "oil": 2
+  },
+  {
+    "water": 0,
+    "oil": 1
+  },
+  {
+    "water": -2,
+    "oil": -10
+  },
+  {
+    "water": -17,
+    "oil": -4
+  },
+  {
+    "water": 6,
+    "oil": 3
+  },
+  {
+    "water": -3,
+    "oil": 8
+  },
+  {
+    "water": -6,
+    "oil": 9
+  },
+  {
+    "water": -20,
+    "oil": -1
+  },
+  {
+    "water": -13,
+    "oil": -4
+  },
+  {
+    "water": -8,
+    "oil": -8
+  },
+  {
+    "water": 19,
+    "oil": 2
+  },
+  {
+    "water": -10,
+    "oil": -8
+  },
+  {
+    "water": 13,
+    "oil": 1
+  },
+  {
+    "water": 14,
+    "oil": -8
+  },
+  {
+    "water": 15,
+    "oil": 0
+  },
+  {
+    "water": -15,
+    "oil": -1
+  },
+  {
+    "water": -9,
+    "oil": -4
+  },
+  {
+    "water": 16,
+    "oil": 3
+  },
+  {
+    "water": 14,
+    "oil": 3
+  },
+  {
+    "water": 11,
+    "oil": -3
+  },
+  {
+    "water": 1,
+    "oil": 2
+  },
+  {
+    "water": -2,
+    "oil": -9
+  },
+  {
+    "water": 18,
+    "oil": 2
+  },
+  {
+    "water": 1,
+    "oil": 1
+  },
+  {
+    "water": -5,
+    "oil": -9
+  },
+  {
+    "water": 16,
+    "oil": -10
+  },
+  {
+    "water": 15,
+    "oil": 10
+  },
+  {
+    "water": -6,
+    "oil": 5
+  },
+  {
+    "water": 7,
+    "oil": 0
+  },
+  {
+    "water": -7,
+    "oil": 0
+  },
+  {
+    "water": -2,
+    "oil": -9
+  },
+  {
+    "water": 4,
+    "oil": 8
+  },
+  {
+    "water": 16,
+    "oil": -7
+  },
+  {
+    "water": -14,
+    "oil": -3
+  },
+  {
+    "water": -4,
+    "oil": -8
+  },
+  {
+    "water": 20,
+    "oil": 2
+  },
+  {
+    "water": -6,
+    "oil": -1
+  },
+  {
+    "water": -18,
+    "oil": -4
+  },
+  {
+    "water": -10,
+    "oil": -10
+  },
+  {
+    "water": -2,
+    "oil": -8
+  },
+  {
+    "water": -1,
+    "oil": -1
+  },
+  {
+    "water": -15,
+    "oil": -6
+  },
+  {
+    "water": -2,
+    "oil": 5
+  },
+  {
+    "water": 19,
+    "oil": -7
+  },
+  {
+    "water": -4,
+    "oil": 4
+  },
+  {
+    "water": -2,
+    "oil": -7
+  },
+  {
+    "water": -11,
+    "oil": 2
+  },
+  {
+    "water": -10,
+    "oil": -7
+  },
+  {
+    "water": 2,
+    "oil": 2
+  },
+  {
+    "water": 10,
+    "oil": 9
+  },
+  {
+    "water": -17,
+    "oil": 7
+  },
+  {
+    "water": 10,
+    "oil": 7
+  },
+  {
+    "water": 13,
+    "oil": -5
+  },
+  {
+    "water": 18,
+    "oil": -1
+  },
+  {
+    "water": -16,
+    "oil": -6
+  },
+  {
+    "water": -13,
+    "oil": 7
+  },
+  {
+    "water": -11,
+    "oil": -3
+  },
+  {
+    "water": 5,
+    "oil": -10
+  },
+  {
+    "water": -10,
+    "oil": 7
+  },
+  {
+    "water": 12,
+    "oil": -3
+  },
+  {
+    "water": 14,
+    "oil": -6
+  },
+  {
+    "water": -6,
+    "oil": -3
+  },
+  {
+    "water": 0,
+    "oil": -1
+  },
+  {
+    "water": 12,
+    "oil": 7
+  },
+  {
+    "water": 16,
+    "oil": -3
+  },
+  {
+    "water": 11,
+    "oil": 10
+  },
+  {
+    "water": -5,
+    "oil": -3
+  },
+  {
+    "water": 3,
+    "oil": -3
+  },
+  {
+    "water": -16,
+    "oil": 5
+  },
+  {
+    "water": 2,
+    "oil": -6
+  },
+  {
+    "water": -3,
+    "oil": 10
+  },
+  {
+    "water": -8,
+    "oil": 5
+  },
+  {
+    "water": -11,
+    "oil": -6
+  },
+  {
+    "water": -16,
+    "oil": 1
+  },
+  {
+    "water": 1,
+    "oil": -10
+  },
+  {
+    "water": 14,
+    "oil": 6
+  },
+  {
+    "water": -6,
+    "oil": 8
+  },
+  {
+    "water": -9,
+    "oil": -1
+  },
+  {
+    "water": 11,
+    "oil": -1
+  },
+  {
+    "water": 14,
+    "oil": 8
+  },
+  {
+    "water": -8,
+    "oil": -10
+  },
+  {
+    "water": -14,
+    "oil": -9
+  },
+  {
+    "water": 18,
+    "oil": 2
+  },
+  {
+    "water": -7,
+    "oil": 10
+  },
+  {
+    "water": 5,
+    "oil": -4
+  },
+  {
+    "water": -19,
+    "oil": 7
+  },
+  {
+    "water": -5,
+    "oil": 0
+  },
+  {
+    "water": 2,
+    "oil": 10
+  },
+  {
+    "water": -4,
+    "oil": -5
+  },
+  {
+    "water": -5,
+    "oil": -3
+  },
+  {
+    "water": -19,
+    "oil": 10
+  },
+  {
+    "water": -3,
+    "oil": 1
+  },
+  {
+    "water": -9,
+    "oil": 1
+  },
+  {
+    "water": 13,
+    "oil": 7
+  },
+  {
+    "water": -9,
+    "oil": -6
+  },
+  {
+    "water": -9,
+    "oil": -2
+  },
+  {
+    "water": 3,
+    "oil": 0
+  },
+  {
+    "water": 14,
+    "oil": 8
+  },
+  {
+    "water": -6,
+    "oil": 0
+  },
+  {
+    "water": 8,
+    "oil": 7
+  },
+  {
+    "water": -4,
+    "oil": 10
+  },
+  {
+    "water": 19,
+    "oil": 1
+  },
+  {
+    "water": -12,
+    "oil": 0
+  },
+  {
+    "water": 3,
+    "oil": -3
+  },
+  {
+    "water": -17,
+    "oil": 2
+  },
+  {
+    "water": -17,
+    "oil": -2
+  },
+  {
+    "water": -7,
+    "oil": -1
+  },
+  {
+    "water": 5,
+    "oil": -3
+  },
+  {
+    "water": -13,
+    "oil": 5
+  },
+  {
+    "water": -6,
+    "oil": -5
+  },
+  {
+    "water": 19,
+    "oil": -3
+  },
+  {
+    "water": 15,
+    "oil": -3
+  },
+  {
+    "water": 1,
+    "oil": 7
+  },
+  {
+    "water": 7,
+    "oil": -6
+  },
+  {
+    "water": 9,
+    "oil": -8
+  },
+  {
+    "water": 18,
+    "oil": 6
+  },
+  {
+    "water": -4,
+    "oil": 8
+  },
+  {
+    "water": -11,
+    "oil": -4
+  },
+  {
+    "water": 14,
+    "oil": -3
+  },
+  {
+    "water": 7,
+    "oil": -2
+  },
+  {
+    "water": 3,
+    "oil": -8
+  },
+  {
+    "water": -15,
+    "oil": -6
+  },
+  {
+    "water": 17,
+    "oil": -1
+  },
+  {
+    "water": -8,
+    "oil": -4
+  },
+  {
+    "water": -18,
+    "oil": -10
+  },
+  {
+    "water": -5,
+    "oil": -1
+  },
+  {
+    "water": -2,
+    "oil": -8
+  },
+  {
+    "water": 0,
+    "oil": 9
+  },
+  {
+    "water": -3,
+    "oil": -10
+  },
+  {
+    "water": -18,
+    "oil": -3
+  },
+  {
+    "water": -12,
+    "oil": -5
+  },
+  {
+    "water": 12,
+    "oil": -8
+  },
+  {
+    "water": 20,
+    "oil": 4
+  },
+  {
+    "water": 16,
+    "oil": -8
+  },
+  {
+    "water": -10,
+    "oil": -6
+  },
+  {
+    "water": -13,
+    "oil": 10
+  },
+  {
+    "water": 5,
+    "oil": -1
+  },
+  {
+    "water": -2,
+    "oil": 1
+  },
+  {
+    "water": 2,
+    "oil": 3
+  },
+  {
+    "water": 10,
+    "oil": -8
+  },
+  {
+    "water": -11,
+    "oil": -10
+  },
+  {
+    "water": 0,
+    "oil": 9
+  },
+  {
+    "water": 14,
+    "oil": 1
+  },
+  {
+    "water": -18,
+    "oil": 1
+  },
+  {
+    "water": 20,
+    "oil": -10
+  },
+  {
+    "water": -2,
+    "oil": -10
+  },
+  {
+    "water": -19,
+    "oil": 10
+  },
+  {
+    "water": -4,
+    "oil": 7
+  },
+  {
+    "water": 4,
+    "oil": 9
+  },
+  {
+    "water": 0,
+    "oil": 4
+  },
+  {
+    "water": -9,
+    "oil": 2
+  },
+  {
+    "water": 6,
+    "oil": 5
+  },
+  {
+    "water": -19,
+    "oil": -1
+  },
+  {
+    "water": -16,
+    "oil": 10
+  },
+  {
+    "water": -18,
+    "oil": -8
+  },
+  {
+    "water": 7,
+    "oil": -2
+  },
+  {
+    "water": -18,
+    "oil": 5
+  },
+  {
+    "water": -16,
+    "oil": 6
+  },
+  {
+    "water": 11,
+    "oil": -10
+  },
+  {
+    "water": 9,
+    "oil": 6
+  },
+  {
+    "water": 4,
+    "oil": 3
+  },
+  {
+    "water": -12,
+    "oil": 1
+  },
+  {
+    "water": 11,
+    "oil": -7
+  },
+  {
+    "water": 10,
+    "oil": -3
+  },
+  {
+    "water": 7,
+    "oil": 0
+  },
+  {
+    "water": -14,
+    "oil": 10
+  },
+  {
+    "water": -7,
+    "oil": -3
+  },
+  {
+    "water": 10,
+    "oil": -6
+  },
+  {
+    "water": -15,
+    "oil": 6
+  },
+  {
+    "water": 6,
+    "oil": 4
+  },
+  {
+    "water": 3,
+    "oil": -8
+  },
+  {
+    "water": 3,
+    "oil": 3
+  },
+  {
+    "water": 9,
+    "oil": 1
+  },
+  {
+    "water": 11,
+    "oil": 2
+  },
+  {
+    "water": 7,
+    "oil": -5
+  },
+  {
+    "water": 10,
+    "oil": -9
+  },
+  {
+    "water": -7,
+    "oil": 8
+  },
+  {
+    "water": -2,
+    "oil": -2
+  },
+  {
+    "water": -19,
+    "oil": -1
+  },
+  {
+    "water": -19,
+    "oil": 8
+  },
+  {
+    "water": -16,
+    "oil": -3
+  },
+  {
+    "water": 1,
+    "oil": 10
+  },
+  {
+    "water": -12,
+    "oil": 5
+  },
+  {
+    "water": -4,
+    "oil": 4
+  },
+  {
+    "water": 8,
+    "oil": 0
+  },
+  {
+    "water": -3,
+    "oil": 5
+  },
+  {
+    "water": 11,
+    "oil": -3
+  },
+  {
+    "water": 4,
+    "oil": 7
+  },
+  {
+    "water": -20,
+    "oil": -6
+  },
+  {
+    "water": -14,
+    "oil": -8
+  },
+  {
+    "water": 7,
+    "oil": -3
+  },
+  {
+    "water": 4,
+    "oil": 4
+  },
+  {
+    "water": 4,
+    "oil": 7
+  },
+  {
+    "water": -20,
+    "oil": -4
+  },
+  {
+    "water": -2,
+    "oil": -6
+  },
+  {
+    "water": 2,
+    "oil": -10
+  },
+  {
+    "water": -14,
+    "oil": 1
+  },
+  {
+    "water": 19,
+    "oil": -3
+  },
+  {
+    "water": 16,
+    "oil": 2
+  },
+  {
+    "water": 7,
+    "oil": 5
+  },
+  {
+    "water": -11,
+    "oil": 7
+  },
+  {
+    "water": -5,
+    "oil": -4
+  },
+  {
+    "water": -12,
+    "oil": 6
+  },
+  {
+    "water": -16,
+    "oil": 6
+  },
+  {
+    "water": 2,
+    "oil": 2
+  },
+  {
+    "water": -5,
+    "oil": -10
+  },
+  {
+    "water": 16,
+    "oil": 5
+  },
+  {
+    "water": -13,
+    "oil": -3
+  },
+  {
+    "water": 11,
+    "oil": -9
+  },
+  {
+    "water": 20,
+    "oil": 10
+  },
+  {
+    "water": -3,
+    "oil": 10
+  },
+  {
+    "water": -14,
+    "oil": 0
+  },
+  {
+    "water": -15,
+    "oil": -3
+  },
+  {
+    "water": 18,
+    "oil": 9
+  },
+  {
+    "water": 14,
+    "oil": -2
+  },
+  {
+    "water": -4,
+    "oil": 10
+  },
+  {
+    "water": 8,
+    "oil": -5
+  },
+  {
+    "water": -1,
+    "oil": -1
+  },
+  {
+    "water": -3,
+    "oil": 3
+  },
+  {
+    "water": 8,
+    "oil": 7
+  },
+  {
+    "water": -7,
+    "oil": 5
+  },
+  {
+    "water": -18,
+    "oil": 1
+  },
+  {
+    "water": 13,
+    "oil": 8
+  },
+  {
+    "water": -13,
+    "oil": -10
+  },
+  {
+    "water": -3,
+    "oil": -6
+  },
+  {
+    "water": -17,
+    "oil": 0
+  },
+  {
+    "water": -8,
+    "oil": 8
+  },
+  {
+    "water": -3,
+    "oil": 7
+  },
+  {
+    "water": -9,
+    "oil": 0
+  },
+  {
+    "water": -13,
+    "oil": 1
+  },
+  {
+    "water": 5,
+    "oil": 0
+  },
+  {
+    "water": 16,
+    "oil": -9
+  },
+  {
+    "water": -7,
+    "oil": -1
+  },
+  {
+    "water": -4,
+    "oil": 9
+  },
+  {
+    "water": -6,
+    "oil": -3
+  },
+  {
+    "water": -17,
+    "oil": -2
+  },
+  {
+    "water": 0,
+    "oil": -7
+  },
+  {
+    "water": -18,
+    "oil": -1
+  },
+  {
+    "water": -18,
+    "oil": 3
+  },
+  {
+    "water": -1,
+    "oil": 4
+  },
+  {
+    "water": 19,
+    "oil": -4
+  },
+  {
+    "water": -9,
+    "oil": 7
+  },
+  {
+    "water": -3,
+    "oil": 8
+  },
+  {
+    "water": -5,
+    "oil": 8
+  },
+  {
+    "water": -18,
+    "oil": -3
+  },
+  {
+    "water": -17,
+    "oil": -3
+  },
+  {
+    "water": -3,
+    "oil": 8
+  },
+  {
+    "water": -2,
+    "oil": -3
+  },
+  {
+    "water": 14,
+    "oil": 5
+  },
+  {
+    "water": 15,
+    "oil": -9
+  },
+  {
+    "water": -12,
+    "oil": 6
+  },
+  {
+    "water": -1,
+    "oil": 6
+  },
+  {
+    "water": -14,
+    "oil": 4
+  },
+  {
+    "water": 2,
+    "oil": -2
+  },
+  {
+    "water": -1,
+    "oil": 1
+  },
+  {
+    "water": 7,
+    "oil": -3
+  },
+  {
+    "water": -4,
+    "oil": -4
+  },
+  {
+    "water": -1,
+    "oil": -8
+  },
+  {
+    "water": -3,
+    "oil": 5
+  },
+  {
+    "water": -12,
+    "oil": 2
+  },
+  {
+    "water": 3,
+    "oil": -9
+  },
+  {
+    "water": 1,
+    "oil": 5
+  },
+  {
+    "water": 5,
+    "oil": 2
+  },
+  {
+    "water": 8,
+    "oil": 0
+  },
+  {
+    "water": -19,
+    "oil": 2
+  },
+  {
+    "water": 18,
+    "oil": 7
+  },
+  {
+    "water": 11,
+    "oil": 10
+  },
+  {
+    "water": 4,
+    "oil": -4
+  },
+  {
+    "water": -16,
+    "oil": 4
+  },
+  {
+    "water": 13,
+    "oil": 4
+  },
+  {
+    "water": 0,
+    "oil": 10
+  },
+  {
+    "water": 3,
+    "oil": 1
+  },
+  {
+    "water": 4,
+    "oil": 10
+  },
+  {
+    "water": 16,
+    "oil": 6
+  },
+  {
+    "water": -18,
+    "oil": -3
+  },
+  {
+    "water": 7,
+    "oil": -4
+  },
+  {
+    "water": 1,
+    "oil": -2
+  },
+  {
+    "water": -3,
+    "oil": 10
+  },
+  {
+    "water": -19,
+    "oil": 6
+  },
+  {
+    "water": -5,
+    "oil": 7
+  },
+  {
+    "water": -2,
+    "oil": 10
+  },
+  {
+    "water": 12,
+    "oil": 2
+  },
+  {
+    "water": -9,
+    "oil": 10
+  },
+  {
+    "water": 6,
+    "oil": -3
+  },
+  {
+    "water": -20,
+    "oil": 2
+  },
+  {
+    "water": -8,
+    "oil": 2
+  },
+  {
+    "water": -16,
+    "oil": 4
+  },
+  {
+    "water": -9,
+    "oil": -8
+  },
+  {
+    "water": 20,
+    "oil": -6
+  },
+  {
+    "water": -4,
+    "oil": -7
+  },
+  {
+    "water": 9,
+    "oil": 2
+  },
+  {
+    "water": 9,
+    "oil": -4
+  },
+  {
+    "water": -9,
+    "oil": 2
+  },
+  {
+    "water": -19,
+    "oil": -3
+  },
+  {
+    "water": -10,
+    "oil": 10
+  },
+  {
+    "water": -11,
+    "oil": 7
+  },
+  {
+    "water": 9,
+    "oil": -9
+  },
+  {
+    "water": -20,
+    "oil": -8
+  },
+  {
+    "water": 9,
+    "oil": 2
+  },
+  {
+    "water": 12,
+    "oil": 2
+  },
+  {
+    "water": -11,
+    "oil": 3
+  },
+  {
+    "water": -17,
+    "oil": -9
+  },
+  {
+    "water": -10,
+    "oil": 5
+  },
+  {
+    "water": -9,
+    "oil": -10
+  },
+  {
+    "water": -14,
+    "oil": 6
+  },
+  {
+    "water": 8,
+    "oil": -3
+  },
+  {
+    "water": -6,
+    "oil": 10
+  },
+  {
+    "water": 4,
+    "oil": -1
+  },
+  {
+    "water": 0,
+    "oil": 3
+  },
+  {
+    "water": -20,
+    "oil": 8
+  },
+  {
+    "water": -19,
+    "oil": 10
+  },
+  {
+    "water": -8,
+    "oil": 2
+  },
+  {
+    "water": 6,
+    "oil": 1
+  },
+  {
+    "water": 15,
+    "oil": 1
+  },
+  {
+    "water": -1,
+    "oil": -4
+  },
+  {
+    "water": -8,
+    "oil": 3
+  },
+  {
+    "water": -11,
+    "oil": 6
+  },
+  {
+    "water": 19,
+    "oil": 6
+  },
+  {
+    "water": -2,
+    "oil": -7
+  },
+  {
+    "water": -7,
+    "oil": -3
+  },
+  {
+    "water": -4,
+    "oil": -7
+  },
+  {
+    "water": -1,
+    "oil": -5
+  },
+  {
+    "water": -2,
+    "oil": 7
+  },
+  {
+    "water": -5,
+    "oil": -10
+  },
+  {
+    "water": 7,
+    "oil": 2
+  },
+  {
+    "water": 0,
+    "oil": -8
+  },
+  {
+    "water": 9,
+    "oil": -6
+  },
+  {
+    "water": 19,
+    "oil": 3
+  },
+  {
+    "water": -1,
+    "oil": -1
+  },
+  {
+    "water": 17,
+    "oil": 4
+  },
+  {
+    "water": -5,
+    "oil": 9
+  },
+  {
+    "water": 14,
+    "oil": -9
+  },
+  {
+    "water": -13,
+    "oil": -5
+  },
+  {
+    "water": 14,
+    "oil": -5
+  },
+  {
+    "water": 3,
+    "oil": -7
+  },
+  {
+    "water": -15,
+    "oil": 8
+  },
+  {
+    "water": -17,
+    "oil": 1
+  },
+  {
+    "water": -3,
+    "oil": 0
+  },
+  {
+    "water": 13,
+    "oil": -3
+  },
+  {
+    "water": -18,
+    "oil": 8
+  },
+  {
+    "water": 14,
+    "oil": 4
+  },
+  {
+    "water": 7,
+    "oil": 5
+  },
+  {
+    "water": 19,
+    "oil": 5
+  },
+  {
+    "water": -12,
+    "oil": -6
+  },
+  {
+    "water": 15,
+    "oil": 4
+  },
+  {
+    "water": -1,
+    "oil": -4
+  },
+  {
+    "water": -5,
+    "oil": 1
+  },
+  {
+    "water": 8,
+    "oil": -6
+  },
+  {
+    "water": 1,
+    "oil": -2
+  },
+  {
+    "water": 7,
+    "oil": -8
+  },
+  {
+    "water": -7,
+    "oil": -6
+  },
+  {
+    "water": -12,
+    "oil": -2
+  },
+  {
+    "water": 7,
+    "oil": -4
+  },
+  {
+    "water": -18,
+    "oil": 7
+  },
+  {
+    "water": -17,
+    "oil": -6
+  },
+  {
+    "water": 11,
+    "oil": 6
+  },
+  {
+    "water": 12,
+    "oil": -7
+  },
+  {
+    "water": -6,
+    "oil": -2
+  },
+  {
+    "water": -17,
+    "oil": 8
+  },
+  {
+    "water": 11,
+    "oil": 1
+  },
+  {
+    "water": -1,
+    "oil": -9
+  },
+  {
+    "water": -2,
+    "oil": 0
+  },
+  {
+    "water": 9,
+    "oil": 7
+  },
+  {
+    "water": -5,
+    "oil": -5
+  },
+  {
+    "water": 6,
+    "oil": -8
+  },
+  {
+    "water": -8,
+    "oil": -1
+  },
+  {
+    "water": -11,
+    "oil": 4
+  },
+  {
+    "water": -5,
+    "oil": -9
+  },
+  {
+    "water": -4,
+    "oil": 3
+  },
+  {
+    "water": -20,
+    "oil": -1
+  },
+  {
+    "water": 1,
+    "oil": 9
+  },
+  {
+    "water": 3,
+    "oil": 5
+  },
+  {
+    "water": 15,
+    "oil": -5
+  },
+  {
+    "water": 8,
+    "oil": 5
+  },
+  {
+    "water": 13,
+    "oil": 4
+  },
+  {
+    "water": -6,
+    "oil": 3
+  },
+  {
+    "water": -10,
+    "oil": 3
+  },
+  {
+    "water": -4,
+    "oil": 9
+  },
+  {
+    "water": 17,
+    "oil": -8
+  },
+  {
+    "water": 5,
+    "oil": 0
+  },
+  {
+    "water": 6,
+    "oil": -1
+  },
+  {
+    "water": 13,
+    "oil": 3
+  },
+  {
+    "water": 14,
+    "oil": -9
+  },
+  {
+    "water": -9,
+    "oil": -10
+  },
+  {
+    "water": 9,
+    "oil": -8
+  },
+  {
+    "water": 19,
+    "oil": -5
+  },
+  {
+    "water": 5,
+    "oil": 9
+  },
+  {
+    "water": -20,
+    "oil": -6
+  },
+  {
+    "water": 1,
+    "oil": 5
+  },
+  {
+    "water": 18,
+    "oil": -5
+  },
+  {
+    "water": -18,
+    "oil": -4
+  },
+  {
+    "water": -9,
+    "oil": -1
+  },
+  {
+    "water": -18,
+    "oil": 4
+  },
+  {
+    "water": 15,
+    "oil": 6
+  },
+  {
+    "water": 20,
+    "oil": 3
+  },
+  {
+    "water": 3,
+    "oil": 7
+  },
+  {
+    "water": -16,
+    "oil": 3
+  },
+  {
+    "water": 15,
+    "oil": 3
+  },
+  {
+    "water": -1,
+    "oil": -1
+  },
+  {
+    "water": 6,
+    "oil": 4
+  },
+  {
+    "water": -15,
+    "oil": -10
+  },
+  {
+    "water": 10,
+    "oil": -7
+  },
+  {
+    "water": 17,
+    "oil": -10
+  },
+  {
+    "water": -6,
+    "oil": 4
+  },
+  {
+    "water": -5,
+    "oil": 0
+  },
+  {
+    "water": 11,
+    "oil": 10
+  },
+  {
+    "water": -10,
+    "oil": -2
+  },
+  {
+    "water": 12,
+    "oil": -10
+  },
+  {
+    "water": 8,
+    "oil": 10
+  },
+  {
+    "water": -7,
+    "oil": -7
+  },
+  {
+    "water": -9,
+    "oil": 3
+  },
+  {
+    "water": -4,
+    "oil": 1
+  },
+  {
+    "water": 14,
+    "oil": -4
+  },
+  {
+    "water": 2,
+    "oil": -3
+  },
+  {
+    "water": 2,
+    "oil": -3
+  },
+  {
+    "water": -10,
+    "oil": 5
+  },
+  {
+    "water": 4,
+    "oil": -1
+  },
+  {
+    "water": -3,
+    "oil": 1
+  },
+  {
+    "water": 7,
+    "oil": -7
+  },
+  {
+    "water": 6,
+    "oil": -6
+  },
+  {
+    "water": 18,
+    "oil": 6
+  },
+  {
+    "water": 4,
+    "oil": 8
+  },
+  {
+    "water": -9,
+    "oil": 1
+  },
+  {
+    "water": -19,
+    "oil": 3
+  },
+  {
+    "water": 3,
+    "oil": 3
+  },
+  {
+    "water": 11,
+    "oil": 6
+  },
+  {
+    "water": 12,
+    "oil": -5
+  },
+  {
+    "water": -15,
+    "oil": -2
+  },
+  {
+    "water": 0,
+    "oil": -3
+  },
+  {
+    "water": 3,
+    "oil": 5
+  },
+  {
+    "water": 8,
+    "oil": 6
+  },
+  {
+    "water": 8,
+    "oil": 5
+  },
+  {
+    "water": -2,
+    "oil": 0
+  },
+  {
+    "water": -4,
+    "oil": -9
+  },
+  {
+    "water": -12,
+    "oil": 5
+  },
+  {
+    "water": -1,
+    "oil": 4
+  },
+  {
+    "water": 13,
+    "oil": 2
+  },
+  {
+    "water": -7,
+    "oil": 10
+  },
+  {
+    "water": -7,
+    "oil": -6
+  },
+  {
+    "water": -3,
+    "oil": -10
+  },
+  {
+    "water": 20,
+    "oil": 3
+  },
+  {
+    "water": 3,
+    "oil": -5
+  },
+  {
+    "water": -3,
+    "oil": -9
+  },
+  {
+    "water": -20,
+    "oil": 0
+  },
+  {
+    "water": -10,
+    "oil": -6
+  },
+  {
+    "water": 2,
+    "oil": 3
+  },
+  {
+    "water": 16,
+    "oil": -1
+  },
+  {
+    "water": 6,
+    "oil": 0
+  },
+  {
+    "water": -13,
+    "oil": 4
+  },
+  {
+    "water": -7,
+    "oil": -4
+  },
+  {
+    "water": 15,
+    "oil": 6
+  },
+  {
+    "water": -1,
+    "oil": 4
+  },
+  {
+    "water": 18,
+    "oil": -6
+  },
+  {
+    "water": 13,
+    "oil": 4
+  },
+  {
+    "water": 18,
+    "oil": -10
+  },
+  {
+    "water": -1,
+    "oil": 3
+  },
+  {
+    "water": 17,
+    "oil": -1
+  }
+]  
+}

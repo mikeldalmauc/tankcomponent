@@ -1,0 +1,25 @@
+#bidones {
+    position: absolute;
+    z-index: -20;
+    height:100%;
+    width:100%;
+    overflow:hidden; /* or overflow:auto; if you want scrollbars */
+    background-image: linear-gradient(rgb(173, 220, 164), rgb(60, 1, 55));
+}
+
+#scene {
+    margin-left: 300px;
+    width: fit-content;
+    height: fit-content;
+}
+
+#cont1{
+    position: absolute;
+    height: 0px;
+    top: 1280px;
+    left: 480px;
+    z-index: -10;
+    background-color: #b7b7ffcf;
+    background-blend-mode: multiply;
+    width: 560px;   
+}
