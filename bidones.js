@@ -42,7 +42,7 @@ function view(){
     // So the machine does not go too fast and slow down events i introduce a timeOut
     setTimeout(() => {
         update("volume");
-      }, "1000")
+      }, "700")
 }
 
 
