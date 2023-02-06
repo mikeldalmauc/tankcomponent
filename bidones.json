@@ -25,31 +25,31 @@
     "oil": 0
   },
   {
-    "water": 3,
+    "water":  500,
     "oil": -4
   },
   {
-    "water": -10,
+    "water": 0,
     "oil": 10
   },
   {
-    "water": 6,
+    "water":  0,
     "oil": 1
   },
   {
-    "water": -9,
+    "water": 0,
     "oil": -2
   },
   {
-    "water": 1,
+    "water": 0,
     "oil": -9
   },
   {
-    "water": -2,
+    "water": 0,
     "oil": 6
   },
   {
-    "water": -1,
+    "water": -500,
     "oil": -6
   },
   {

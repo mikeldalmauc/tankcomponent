@@ -23,3 +23,48 @@
     background-blend-mode: multiply;
     width: 560px;   
 }
+
+#cont2{
+    position: absolute;
+    height: 0px;
+    top: 1280px;
+    left: 1140px;
+    z-index: -10;
+    background-color: #5cdd35cf;
+    background-blend-mode: multiply;
+    width: 560px;   
+}
+
+
+#titAgua{
+    position: absolute;
+    top: 350px;
+    left: 700px;
+}
+#titAceite{
+    position: absolute;
+    top: 350px;
+    left: 1400px;
+}
+
+#panel{
+    position: absolute;
+    width: 400px;
+    background-color: beige;
+    border-width: thick;
+    height: 400px;
+}
+
+#start{
+    font-size: 3em;
+}
+
+#alarma {
+    position: absolute;
+    width: 150px;
+    height: 150px;
+    top: 150px;
+    background-image: url(alarmaoff.png);
+    background-position: center center;
+    background-size: cover;
+}
